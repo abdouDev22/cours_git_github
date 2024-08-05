@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ba13f876ad4d65d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2092278b87a49a3",
+        "type": "tabs",
+        "dimension": 83.81877022653723,
+        "children": [
+          {
+            "id": "e148def9e6f0730e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git et github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "284b44c1d14abd06",
+        "type": "tabs",
+        "dimension": 16.181229773462782,
+        "children": [
+          {
+            "id": "8bf25ff5267b81bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ae9db012ec124c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f2257e7f71c6b98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a93f6fa3f175a825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aec1d02a8a9b29a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92c077a687a23301",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86e5b245c9aca5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99b6c237c8c8fb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3c6448e88d504f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git et github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91df421da66dec5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git et github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a3c2751c1360a1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cad267d867790144",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git et github.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "e148def9e6f0730e",
+  "lastOpenFiles": [
+    "16964126324398_Downloadable Summary [Git et Github] .png",
+    "git et github.md"
+  ]
+}
