@@ -1,7 +1,3 @@
-Voici un exemple de README pour votre projet, que vous pouvez adapter en fonction des détails spécifiques de votre projet :
-
----
-
 # cours_git_github
 
 Bienvenue dans **cours_git_github** ! Ce projet est une collection de notes et de ressources organisées, créées à l'aide de [Obsidian](https://obsidian.md/), un puissant outil de prise de notes et de gestion des connaissances. Ce dépôt GitHub contient l'ensemble des fichiers nécessaires pour explorer et contribuer à ce projet.
@@ -48,7 +44,3 @@ Les contributions sont les bienvenues ! Si vous souhaitez ajouter de nouvelles n
 ## Remerciements
 
 Merci à tous les contributeurs et à la communauté Obsidian pour leur soutien et leurs contributions.
-
----
-
-Ce modèle de README donne un aperçu de votre projet et fournit des instructions pour l'installation et la contribution. Assurez-vous de personnaliser les sections avec les détails spécifiques de votre projet et de votre dépôt GitHub.
