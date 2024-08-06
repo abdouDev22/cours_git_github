@@ -6,7 +6,7 @@
       {
         "id": "a2092278b87a49a3",
         "type": "tabs",
-        "dimension": 83.81877022653723,
+        "dimension": 72.22222222222221,
         "children": [
           {
             "id": "e148def9e6f0730e",
@@ -14,7 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git et github.md",
+                "file": "R (video).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "903985dfd1f5dfde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R (video).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d10b0098c38aae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilisation perso de git et github.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +49,7 @@
       {
         "id": "284b44c1d14abd06",
         "type": "tabs",
-        "dimension": 16.181229773462782,
+        "dimension": 27.77777777777778,
         "children": [
           {
             "id": "8bf25ff5267b81bc",
@@ -101,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git et github.md",
+                "file": "R (video).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git et github.md",
+                "file": "R (video).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git et github.md"
+                "file": "R (video).md"
               }
             }
           }
@@ -164,8 +188,12 @@
   },
   "active": "e148def9e6f0730e",
   "lastOpenFiles": [
+    "R (site).md",
+    "git et github.md",
+    "R (video).md",
+    "Utilisation perso de git et github.md",
+    "travailler sur un projet open source sur git et github.md",
     "README.md",
-    "16964126324398_Downloadable Summary [Git et Github] .png",
-    "git et github.md"
+    "16964126324398_Downloadable Summary [Git et Github] .png"
   ]
 }

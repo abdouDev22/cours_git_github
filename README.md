@@ -4,7 +4,7 @@ Bienvenue dans **cours_git_github** ! Ce projet est une collection de notes et d
 
 ## Aperçu du Projet
 
-MonProjetObsidian est conçu pour organiser et structurer diverses informations, facilitant la navigation et l'accès aux connaissances. Les notes sont interconnectées à l'aide de liens internes, offrant une expérience immersive et intuitive.
+cours_git_github est conçu pour organiser et structurer diverses informations, facilitant la navigation et l'accès aux connaissances. Les notes sont interconnectées à l'aide de liens internes, offrant une expérience immersive et intuitive.
 
 ### Fonctionnalités
 
@@ -20,7 +20,7 @@ Pour explorer ce projet, vous devez avoir Obsidian installé sur votre machine. 
 1. **Clonez le dépôt** :
 
    ```bash
-   git clone https://github.com/VotreNomUtilisateur/MonProjetObsidian.git
+   git clone https://github.com/abdouDev22/cours_git_github.git
    ```
 
 2. **Ouvrez Obsidian** et ajoutez le dossier cloné comme un nouveau vault.
